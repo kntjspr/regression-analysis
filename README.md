@@ -48,13 +48,13 @@ An interactive Python application for comprehensive regression analysis with a u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/regression-analysis-dashboard.git
+git clone https://github.com/kntjspr/regression-analysis-dashboard.git
 cd regression-analysis-dashboard
 ```
 
 2. Install required packages:
 ```bash
-pip install pandas numpy matplotlib seaborn scipy statsmodels tkinter
+pip install pandas numpy matplotlib seaborn scipy statsmodels tkinter openpyxl
 ```
 
 ## Usage
